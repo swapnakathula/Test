@@ -1,4 +1,4 @@
 # Test
-GitHub Branch Merging Practice
+Git Branch Merging Practice
 
 Updated from my branch.
